@@ -214,6 +214,7 @@ public var NSControlCharacterZeroAdvancementAction: Int {
   @objc public func copyWithZone(zone: NSZone) -> AnyObject
 }
 public let NSDefaultAttributesDocumentAttribute: String
+
 public let NSDefaultTabIntervalDocumentAttribute: String
 public let NSDocumentTypeDocumentAttribute: String
 public let NSExpansionAttributeName: String
