@@ -917,5 +917,5 @@
 " , "contents": "popoverControllerShouldDismissPopover(${1:UIPopoverController})" },{ "trigger": "gestureRecognizer \t func UITableViewCell -> BOOL
 " , "contents": "gestureRecognizer(${1:UIGestureRecognizer}, shouldReceivePress:${2:UIPress})" },{ "trigger": "traitCollectionDidChange \t func UIScreen -> void" , "contents": "traitCollectionDidChange(${1:UITraitCollection?})" },{ "trigger": "rightViewRectForBounds \t func UITextField -> CGRect
 " , "contents": "rightViewRectForBounds(${1:CGRect})" },{ "trigger": "firstRectForRange \t func unknown -> CGRect
-" , "contents": "firstRectForRange(${1:UITextRange})" },{ "trigger": "collectionView \t func UICollectionViewController -> void" , "contents": "collectionView(${1:UICollectionView}, didEndDisplayingSupplementaryView:${2:UICollectionReusableView}, forElementOfKind:${3:String}, atIndexPath:${4:NSIndexPath})" }]
+" , "contents": "firstRectForRange(${1:UITextRange})" },{ "trigger": "collectionView \t func UICollectionViewController -> void" , "contents": "collectionView(${1:UICollectionView}, didEndDisplayingSupplementaryView:${2:UICollectionReusableView}, forElementOfKind:${3:String}, atIndexPath:${4:NSIndexPath})" },]
  }
