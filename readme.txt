@@ -4,6 +4,8 @@ A swift SublimeText autocomplete snippet package for the UIKit framework. Genera
 
 Note : the snippets were generated from the header files extracted from the swift generated versions of the header files using the xcode build tools. More on this process to come in the future.
 
+The output.swift file is the combination of all the header files that you would see in xcode.
+
 
 ## License
 
